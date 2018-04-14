@@ -1,0 +1,146 @@
+[START_CONFERENCES]
+Big SKy
+Big South
+CAA
+MEAC
+MVFC
+SWAC
+OVC
+Southern
+PFL
+Southland
+[END_CONFERENCES]
+[START_TEAMS]
+Eastern Washington,EWAS,Big Sky,78,POST
+Idaho,IDAH,Big Sky,75,IDAS
+Idaho State,IDAS,Big Sky,80,IDAH
+Montana, MONT,Big Sky,67,EWAS
+Montana State,MONS,Big Sky,65,MONT
+North Dakota,ND,Big Sky,40,NCOL
+Northern Arizona,NARI,Big Sky,81,CSST
+Northern Colorado,NCOL,Big Sky,62,ND
+Portland State,POST,Big Sky,26,EWAS
+California Sacramento St,CSST,Big Sky,63,NARI
+Southern Utah,SOUT,Big Sky,86,WES
+Weber State,WES,Big Sky,90,SOUT
+[END_CONF]
+Monmouth,MONM,Big South,85,GW
+Charleston Southern,CHS,Big South,51,COLG
+Garner-Webb,GW,Big South,27,MONM
+Lehigh,LE,Big South,45,PRES
+Liberty,LI,Big South,51,FH
+Fordham,FH,Big South,56,LI
+Presbyterian,PRES,Big South,36,LE
+Holy Cross,HOCR,Big South,65,KNST
+Kennesaw State,KNST,Big South,92,HOCR
+Colgate,COLG,Big South,74,CHS
+Harvard,HAR,Big South,56,YALE
+Yale,YALE,Big South,89,HAR
+[END_CONF]
+Villanova,VN,CAA,47,STBR
+Delaware,DEL,CAA,69,DELS
+Stony Brook,STBR,CAA,88,VN
+Elon,ELON,CAA,75,RICM
+Rhode Island,RHI,CAA,41,ALBA
+James Madison,JAMA,CAA,94,WAM
+Albany,ALBA,CAA,47,RHI
+Towson,TOWS,CAA,45,PENN
+Richmond,RICM,CAA,53,ELON
+Wiliiam and Mary,WAM,CAA,39,JAMA
+Delaware State,DELS,CAA,32,DEL
+Penn,PENN,CAA,61,TOWS
+[END_CONF]
+Maine,MAIE,MEAC,43,HOWA
+Hampton U,HAMU,MEAC,52,NORS
+Howard,HOWA,MEAC,76,MAIE
+Sacred Heart,SAHE,MEAC,42,MOST
+Morgan State,MOST,MEAC,28,SAHE
+Norfolk State,NORS,MEAC,50,HAMU
+Bethune Cookman,BECO,MEAC,70,FLAM
+Florida AM, FLAM,MEAC,36,BECO
+North Carolina ATSU,NCAT,MEAC,93,NCC
+North Carolina Central,NCC,MEAC,64,NCAR
+Savannah State,SS,MEAC,41,SCS
+South Carolina State,SCS,MEAC,39,SS
+[END_CONF]
+Indiana State,INS,MVFC,25,YOST
+Illinois State,ILLS,MVFC,52,WILL
+Missouri State,MIST,MVFC,41,SILL
+North Dakota State,NDST,MVFC,95,NOIO
+Northern Iowa,NOIO,MVFC,81,NDST
+South Dakota,SD,MVFC,68,SDS
+South Dakota State,SDS,MVFC,88,SD
+Southern Illinois,SILL,MVFC,48,MIST
+Western Illinois,WILL,MVFC,86,ILLS
+Youngstown State,YOST,MVFC,54,INS
+Columbia,COLU,MVFC,86,DART
+Dartmouth,DART,MVFC,86,COLU
+[END_CONF]
+Alabama AM,ALAM,SWAC,46,ALST
+Alabama State,ALST,SWAC,49,ALAM
+Alcorn State,ALCS,SWAC,74,JACS
+Jackson State,JACS,SWAC,39,ALCS
+Mississippi Valley St,MVST,SWAC,30,APB
+Arkansas Pine Bluff,APB,SWAC,29,MVST
+Grambling State,GS,SWAC,86,SOAM
+Prairie View AM,PVAM,SWAC,56,TXST
+Southern AM,SOAM,SWAC,72,GS
+Texas Southern,TXST,SWAC,37,PVAM
+SE Louisana,SELA,SWAC,53,STFR
+Saint Francis,STFR,SWAC,51,SELA
+[END_CONF]
+Jacksonville State,JAST,OVC,87,AUPE
+Austin Peay,AUPE,OVC,84,JAST
+Eastern Illinois,EILL,OVC,71,EAKT 
+UT Martin,UTMA,OVC,63,TETE
+Eastern Kentucky,EAKT,OVC,45,EILL
+SE Missouri St,SEMT,OVC,44,TENS
+Tennessee State,TENS,OVC,63,SEMT
+Murray State,MURS,OVC,47,CECO
+Tennessee Tech,TETE,OVC,28,UTMA
+Central Connecticut,CECO,OVC,84,MURS
+Bryant,BRYA,OVC,75,DUQU
+Duquesne,DUQU,OVC,79,BYRA
+[END_CONF]
+Tennessee Chattanooga,TNCT,Southern,39,ETNS
+The Citadel,TCI,Southern,52,FURM
+East Tennessee State,ETNS,Southern,43,TNCT
+Furman,FURM,Southern,71,TCI
+Mercer,MERC,Southern,49,SAMF
+Samford,SAMF,Southern,79,MERC
+Cal Poly,CPOL,Southern,29,WTCA
+Virgina Military Inst,VMIN,Southern,25,WOFF
+Western Carolina,WTCA,Southern,73,CPOL
+Wofford,WOFF,Southern,86,VMIN
+Cornell,CORN,Southern,41,PRIN 
+Princeton,PRIN,Southern,53,CORN
+[END_CONF]
+Butler,BUTL,PFL,55,VALP
+Campbell,CAMB,PFL,59,DAVS
+Davidson,DAVS,PFL,34,CAMB
+Dayton,DAYT,PFL,49,DRAK
+Drake,DRAK,PFL,69,DAYT
+Jacksonville,JAV,PFL,67,STET
+Marist,MARI,PFL,51,MORS
+Morehead State,MORS,PFL,51,MARI
+San Diego,SAND,PFL,84,BROW
+Stetson,STET,PFL,39,JAV
+Valparaiso,VALP,PFL,61,BUTL
+Brown,BROW,PFL,39,SAND
+[END_CONF]
+Abilene Christian,ABCH,Southland,37,CARK
+Central Arkansas,CARK,Southland,86,ABCH
+Houston Baptist,HOBA,Southland,30,INWO
+Incarnate Word,INWO,Southland,33,HOBA 
+Lamar,LAMA,Southland,36,ROMO
+McNesse State,MCNS,Southland,80,WAGN
+Wagner,NEWO,Southland,WAGN
+Nicholls State,NICS,Southland,84,NSTA
+Northwestern State,NSTA,Southland,49,NICS
+Sam Houston State,SHST,Southland,87,SFAS
+Stephen F Austin State,SFAS,Southland,49,SHST
+Robert Morris,ROMO,Southland,LAMA
+[END_CONF]
+[END_TEAMS]
+FCS Game 1,FCS Game 2,FCS Game 3,FCS Game 4,FCS Game 5,FCS Game 6,FCS Game 7,FCS Game 8,FCS Game 9,FCS Game 10,FCS Game 11,FCS Game 12,FCS Game 13,FCS Game 14,FCS Game 15,FCS Game 16,FCS Game 17,Celebration Bowl
+[END_BOWL_NAMES]
