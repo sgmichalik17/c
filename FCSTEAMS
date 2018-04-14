@@ -134,12 +134,12 @@ Houston Baptist,HOBA,Southland,30,INWO
 Incarnate Word,INWO,Southland,33,HOBA 
 Lamar,LAMA,Southland,36,ROMO
 McNesse State,MCNS,Southland,80,WAGN
-Wagner,NEWO,Southland,WAGN
+Wagner,WAGN,Southland,54,MCNS
 Nicholls State,NICS,Southland,84,NSTA
 Northwestern State,NSTA,Southland,49,NICS
 Sam Houston State,SHST,Southland,87,SFAS
 Stephen F Austin State,SFAS,Southland,49,SHST
-Robert Morris,ROMO,Southland,LAMA
+Robert Morris,ROMO,Southland,52,LAMA
 [END_CONF]
 [END_TEAMS]
 FCS Game 1,FCS Game 2,FCS Game 3,FCS Game 4,FCS Game 5,FCS Game 6,FCS Game 7,FCS Game 8,FCS Game 9,FCS Game 10,FCS Game 11,FCS Game 12,FCS Game 13,FCS Game 14,FCS Game 15,FCS Game 16,FCS Game 17,Celebration Bowl
