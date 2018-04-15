@@ -11,136 +11,136 @@ PFL
 Southland
 [END_CONFERENCES]
 [START_TEAMS]
-Eastern Washington,EWAS,Big Sky,78,POST,0
-Idaho,IDAH,Big Sky,75,IDAS,0
-Idaho State,IDAS,Big Sky,80,IDAH,0
-Montana,MONT,Big Sky,67,EWAS,0
-Montana State,MONS,Big Sky,65,MONS,0
-North Dakota,ND,Big Sky,40,NCOL,0
-Northern Arizona,NARI,Big Sky,81,CSST,0
-Northern Colorado,NCOL,Big Sky,62,ND,0
-Portland State,POST,Big Sky,26,EWAS,0
-California Sacramento St,CSST,Big Sky,63,NARI,0
-Southern Utah,SOUT,Big Sky,86,WES,0
-Weber State,WES,Big Sky,90,SOUT,0
+Eastern Washington, EWAS, Big Sky, 78, POST, 0
+Idaho, IDAH, Big Sky, 75, IDAS, 0
+Idaho State, IDAS, Big Sky, 80, IDAH, 0
+Montana, MONT, Big Sky, 67, EWAS, 0
+Montana State, MONS, Big Sky, 65, MONS, 0
+North Dakota, ND, Big Sky, 40, NCOL, 0
+Northern Arizona, NARI, Big Sky, 81, CSST, 0
+Northern Colorado, NCOL, Big Sky, 62, ND, 0
+Portland State, POST, Big Sky, 26, EWAS, 0
+California Sacramento St, CSST, Big Sky, 63, NARI, 0
+Southern Utah, SOUT, Big Sky, 86, WES, 0
+Weber State, WES, Big Sky, 90, SOUT, 0
 [END_CONF]
-Monmouth,MONM,Big South,85,GW,3
-Charleston Southern,CHS,Big South,51,COLG,4
-Garner-Webb,GW,Big South,27,MONM,4
-Lehigh,LE,Big South,45,PRES,3
-Liberty,LI,Big South,51,FH,3
-Fordham,FH,Big South,56,LI,4
-Presbyterian,PRES,Big South,36,LE,4
-Holy Cross,HOCR,Big South,65,KNST,4
-Kennesaw State,KNST,Big South,92,HOCR,4
-Colgate,COLG,Big South,74,CHS,3
-Harvard,HAR,Big South,56,YALE,3
-Yale,YALE,Big South,89,HAR,3
+Monmouth, MONM, Big South, 85, GW, 3
+Charleston Southern, CHS, Big South, 51, COLG, 4
+Garner Webb, GW, Big South, 27, MONM, 4
+Lehigh, LE, Big South, 45, PRES, 3
+Liberty, LI, Big South, 51, FH, 3
+Fordham, FH, Big South, 56, LI, 4
+Presbyterian, PRES, Big South, 36, LE, 4
+Holy Cross, HOCR, Big South, 65, KNST, 4
+Kennesaw State, KNST, Big South, 92, HOCR, 4
+Colgate, COLG, Big South, 74, CHS, 3
+Harvard, HAR, Big South, 56, YALE, 3
+Yale, YALE, Big South, 89, HAR, 3
 [END_CONF]
-Villanova,VN,CAA,47,STBR,3
-Delaware,DEL,CAA,69,DELS,3
-Stony Brook,STBR,CAA,88,VN,3
-Elon,ELON,CAA,75,RICM,3
-Rhode Island,RHI,CAA,41,ALBA,3
-James Madison,JAMA,CAA,94,WAM,3
-Albany,ALBA,CAA,47,RHI,3
-Towson,TOWS,CAA,45,PENN,3
-Richmond,RICM,CAA,53,ELON,3
-Wiliiam and Mary,WAM,CAA,39,JAMA,3
-Delaware State,DELS,CAA,32,DEL,3
-Penn,PENN,CAA,61,TOWS,3
+Villanova, VN, CAA, 47, STBR, 3
+Delaware, DEL, CAA, 69, DELS, 3
+Stony Brook, STBR, CAA, 88, VN, 3
+Elon, ELON, CAA, 75, RICM, 3
+Rhode Island, RHI, CAA, 41, ALBA, 3
+James Madison, JAMA, CAA, 94, WAM, 3
+Albany, ALBA, CAA, 47, RHI, 3
+Towson, TOWS, CAA, 45, PENN, 3
+Richmond, RICM, CAA, 53, ELON, 3
+Wiliiam and Mary, WAM, CAA, 39, JAMA, 3
+Delaware State, DELS, CAA, 32, DEL, 3
+Penn, PENN, CAA, 61, TOWS, 3
 [END_CONF]
-Maine,MAIE,MEAC,43,HOWA,3
-Hampton U,HAMU,MEAC,52,NORS,3
-Howard,HOWA,MEAC,76,MAIE,4
-Sacred Heart,SAHE,MEAC,42,MOST,4
-Morgan State,MOST,MEAC,28,SAHE,4
-Norfolk State,NORS,MEAC,50,HAMU,4
-Bethune Cookman,BECO,MEAC,70,FLAM,4
-Florida AM,FLAM,MEAC,36,BECO,4
-North Carolina ATSU,NCAT,MEAC,93,NCC,4
-North Carolina Central,NCC,MEAC,64,NCAR,4
-Savannah State,SS,MEAC,41,SCS,4
-South Carolina State,SCS,MEAC,39,SS,4
+Maine, MAIE, MEAC, 43, HOWA, 3
+Hampton U, HAMU, MEAC, 52, NORS, 3
+Howard, HOWA, MEAC, 76, MAIE, 4
+Sacred Heart, SAHE, MEAC, 42, MOST, 4
+Morgan State, MOST, MEAC, 28, SAHE, 4
+Norfolk State, NORS, MEAC, 50, HAMU, 4
+Bethune Cookman, BECO, MEAC, 70, FLAM, 4
+Florida AM, FLAM, MEAC, 36, BECO, 4
+North Carolina ATSU, NCAT, MEAC, 93, NCC, 4
+North Carolina Central, NCC, MEAC, 64, NCAR, 4
+Savannah State, SS, MEAC, 41, SCS, 4
+South Carolina State, SCS, MEAC, 39, SS, 4
 [END_CONF]
-Indiana State,INS,MVFC,25,YOST,2
-Illinois State,ILLS,MVFC,52,WILL,2
-Missouri State,MIST,MVFC,41,SILL,2
-North Dakota State,NDST,MVFC,95,NOIO,1
-Northern Iowa,NOIO,MVFC,81,NDST,1
-South Dakota,SD,MVFC,68,SDS,1
-South Dakota State,SDS,MVFC,88,SD,1
-Southern Illinois,SILL,MVFC,48,MIST,2
-Western Illinois,WILL,MVFC,86,ILLS,2
-Youngstown State,YOST,MVFC,54,INS,2
-Columbia,COLU,MVFC,86,DART,3
-Dartmouth,DART,MVFC,86,COLU,3
+Indiana State, INS, MVFC, 25, YOST, 2
+Illinois State, ILLS, MVFC, 52, WILL, 2
+Missouri State, MIST, MVFC, 41, SILL, 2
+North Dakota State, NDST, MVFC, 95, NOIO, 1
+Northern Iowa, NOIO, MVFC, 81, NDST, 1
+South Dakota, SD, MVFC, 68, SDS, 1
+South Dakota State, SDS, MVFC, 88, SD, 1
+Southern Illinois, SILL, MVFC, 48, MIST, 2
+Western Illinois, WILL, MVFC, 86, ILLS, 2
+Youngstown State, YOST, MVFC, 54, INS, 2
+Columbia, COLU, MVFC, 86, DART, 3
+Dartmouth, DART, MVFC, 86, COLU, 3
 [END_CONF]
-Alabama AM,ALAM,SWAC,46,ALST,4
-Alabama State,ALST,SWAC,49,ALAM,4
-Alcorn State,ALCS,SWAC,74,JACS,4
-Jackson State,JACS,SWAC,39,ALCS,4
-Mississippi Valley St,MVST,SWAC,30,APB,4
-Arkansas Pine Bluff,APB,SWAC,29,MVST,4
-Grambling State,GS,SWAC,86,SOAM,4
-Prairie View AM,PVAM,SWAC,56,TXST,4
-Southern AM,SOAM,SWAC,72,GS,4
-Texas Southern,TXST,SWAC,37,PVAM,4
-SE Louisana,SELA,SWAC,53,STFR,4
-Saint Francis,STFR,SWAC,51,SELA,3
+Alabama AM, ALAM, SWAC, 46, ALST, 4
+Alabama State, ALST, SWAC, 49, ALAM, 4
+Alcorn State, ALCS, SWAC, 74, JACS, 4
+Jackson State, JACS, SWAC, 39, ALCS, 4
+Mississippi Valley St, MVST, SWAC, 30, APB, 4
+Arkansas Pine Bluff, APB, SWAC, 29, MVST, 4
+Grambling State, GS, SWAC, 86, SOAM, 4
+Prairie View AM, PVAM, SWAC, 56, TXST ,4
+Southern AM, SOAM, SWAC, 72, GS, 4
+Texas Southern, TXST, SWAC, 37, PVAM, 4
+SE Louisana, SELA, SWAC, 53, STFR, 4
+Saint Francis, STFR, SWAC, 51, SELA, 3
 [END_CONF]
-Jacksonville State,JAST,OVC,87,AUPE,4
-Austin Peay,AUPE,OVC,84,JAST,4
-Eastern Illinois,EILL,OVC,71,EAKT,2 
-UT Martin,UTMA,OVC,63,TETE,4
-Eastern Kentucky,EAKT,OVC,45,EILL,4
-SE Missouri St,SEMT,OVC,44,TENS,4
-Tennessee State,TENS,OVC,63,SEMT,4
-Murray State,MURS,OVC,47,CECO,4
-Tennessee Tech,TETE,OVC,28,UTMA,4
-Central Connecticut,CECO,OVC,84,MURS,3
-Bryant,BRYA,OVC,75,DUQU,3
-Duquesne,DUQU,OVC,79,BYRA,3
+Jacksonville State, JAST, OVC, 87, AUPE, 4
+Austin Peay, AUPE, OVC, 84, JAST, 4
+Eastern Illinois, EILL, OVC, 71, EAKT, 2 
+UT Martin, UTMA, OVC, 63, TETE, 4
+Eastern Kentucky, EAKT, OVC, 45, EILL, 4
+SE Missouri St, SEMT, OVC, 44, TENS, 4
+Tennessee State, TENS, OVC, 63, SEMT, 4
+Murray State, MURS, OVC, 47, CECO, 4
+Tennessee Tech, TETE, OVC, 28, UTMA, 4
+Central Connecticut, CECO, OVC, 84, MURS, 3
+Bryant, BRYA, OVC, 75, DUQU, 3
+Duquesne, DUQU, OVC, 79, BYRA, 3
 [END_CONF]
-Tennessee Chattanooga,TNCT,Southern,39,ETNS,4
-The Citadel,TCI,Southern,52,FURM,4
-East Tennessee State,ETNS,Southern,43,TNCT,4
-Furman,FURM,Southern,71,TCI,4
-Mercer,MERC,Southern,49,SAMF,4
-Samford,SAMF,Southern,79,MERC,4
-Cal Poly,CPOL,Southern,29,WTCA,0
-Virgina Military Inst,VMIN,Southern,25,WOFF,4
-Western Carolina,WTCA,Southern,73,CPOL,0
-Wofford,WOFF,Southern,86,VMIN,3
-Cornell,CORN,Southern,41,PRIN,3
-Princeton,PRIN,Southern,53,CORN,3
+Tennessee Chattanooga, TNCT, Southern, 39, ETNS, 4
+The Citadel, TCI, Southern, 52, FURM, 4
+East Tennessee State, ETNS, Southern, 43, TNCT, 4
+Furman, FURM, Southern, 71, TCI, 4
+Mercer, MERC, Southern, 49, SAMF, 4
+Samford, SAMF, Southern, 79, MERC, 4
+Cal Poly, CPOL, Southern, 29, WTCA, 0
+Virgina Military Inst, VMIN,S outhern, 25, WOFF, 4
+Western Carolina, WTCA, Southern, 73, CPOL, 0
+Wofford, WOFF, Southern, 86, VMIN, 3
+Cornell, CORN, Southern, 41, PRIN, 3
+Princeton, PRIN, Southern, 53, CORN, 3
 [END_CONF]
-Butler,BUTL,PFL,55,VALP,2
-Campbell,CAMB,PFL,59,DAVS,2
-Davidson,DAVS,PFL,34,CAMB,2
-Dayton,DAYT,PFL,49,DRAK,2
-Drake,DRAK,PFL,69,DAYT,2
-Jacksonville,JAV,PFL,67,STET,4
-Marist,MARI,PFL,51,MORS,4
-Morehead State,MORS,PFL,51,MARI,4
-San Diego,SAND,PFL,84,BROW,0
-Stetson,STET,PFL,39,JAV,3
-Valparaiso,VALP,PFL,61,BUTL,2
-Brown,BROW,PFL,39,SAND,4
+Butler, BUTL, PFL, 55, VALP, 2
+Campbell, CAMB, PFL, 59, DAVS, 2
+Davidson, DAVS, PFL, 34, CAMB, 2
+Dayton, DAYT, PFL, 49, DRAK, 2
+Drake, DRAK, PFL, 69, DAYT, 2
+Jacksonville, JAV, PFL, 67, STET, 4
+Marist, MARI, PFL, 51, MORS, 4
+Morehead State, MORS, PFL, 51, MARI, 4
+San Diego, SAND, PFL, 84, BROW, 0
+Stetson, STET, PFL, 39, JAV, 3
+Valparaiso, VALP, PFL, 61, BUTL, 2
+Brown, BROW, PFL, 39, SAND, 4
 [END_CONF]
-Abilene Christian,ABCH,Southland,37,CARK,4
-Central Arkansas,CARK,Southland,86,ABCH,4
-Houston Baptist,HOBA,Southland,30,INWO,4
-Incarnate Word,INWO,Southland,33,HOBA ,4
-Lamar,LAMA,Southland,36,ROMO,4
-McNesse State,MCNS,Southland,80,WAGN,4
-Wagner,WAGN,Southland,54,MCNS,4
-Nicholls State,NICS,Southland,84,NSTA,4
-Northwestern State,NSTA,Southland,49,NICS,4
-Sam Houston State,SHST,Southland,87,SFAS,4
-Stephen F Austin State,SFAS,Southland,49,SHST,4
-Robert Morris,ROMO,Southland,52,LAMA,4
+Abilene Christian, ABCH, Southland, 37, CARK, 4
+Central Arkansas, CARK, Southland, 86, ABCH, 4
+Houston Baptist, HOBA, Southland, 30, INWO, 4
+Incarnate Word, INWO, Southland, 33, HOBA, 4
+Lamar, LAMA, Southland, 36, ROMO, 4
+McNesse State, MCNS, Southland, 80, WAGN, 4
+Wagner, WAGN, Southland, 54, MCNS, 4
+Nicholls State, NICS, Southland, 84, NSTA, 4
+Northwestern State, NSTA, Southland, 49, NICS, 4
+Sam Houston State, SHST, Southland, 87, SFAS, 4
+Stephen F Austin State, SFAS, Southland, 49, SHST, 4
+Robert Morris, ROMO, Southland, 52, LAMA, 4
 [END_CONF]
 [END_TEAMS]
-FCS Game 1,FCS Game 2,FCS Game 3,FCS Game 4,FCS Game 5,FCS Game 6,FCS Game 7,FCS Game 8,FCS Game 9,FCS Game 10,FCS Game 11,FCS Game 12,FCS Game 13,FCS Game 14,FCS Game 15,FCS Game 16,FCS Game 17,Celebration Bowl
+FCS Game 1, FCS Game 2, FCS Game 3, FCS Game 4, FCS Game 5, FCS Game 6, FCS Game 7, FCS Game 8, FCS Game 9, FCS Game 10, FCS Game 11, FCS Game 12, FCS Game 13, FCS Game 14, FCS Game 15, FCS Game 16, FCS Game 17, Celebration Bowl
 [END_BOWL_NAMES]
